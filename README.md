@@ -3,3 +3,5 @@ explainatory, currently has no advanced options like handshake and parity, for s
 use seRead for simple projects like arduino where serial communiction over USB can be used for debugging
 
 --DanielandAstro
+
+[![BuitlWithDot.Net shield](https://builtwithdot.net/project/70/seread/badge)](https://builtwithdot.net/project/70/seread)
